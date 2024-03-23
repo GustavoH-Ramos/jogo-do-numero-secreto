@@ -65,14 +65,5 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true);
 }
 
-function atalho() {
-    var obj = document.getElementById("dv1");
-    var tecla = KeyboardEvent.keyCode;
-
-    if(tecla == 13){
-      
-    }
-}
-
 
 
